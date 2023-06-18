@@ -8,7 +8,7 @@ public class configStudent {
     @Bean
     public Student getStudent(){
         System.out.println("Spring call Bean");
-        return new Student("Suvadip Majhi");
+        return new Student("Ashish Singh");
     }
 
 }
